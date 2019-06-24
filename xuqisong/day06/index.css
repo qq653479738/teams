@@ -1,0 +1,198 @@
+.m-box {
+    width: 100%;
+    background-color: gainsboro;
+}
+
+.mycenter {
+    width: 1500px;
+    height: 100px;
+    margin: 0px auto;
+    position: relative;
+}
+
+.m-cen1 {
+    height: 100px;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    width: 100%;
+}
+
+
+
+.t-dv1 {
+    width: 400px;
+    position: absolute;
+    left: 10%;
+    float: left;
+}
+
+.t-dv2 {
+
+    white-space: nowrap;
+    color: #ccc;
+    position: absolute;
+    top: 30px;
+    left: 50%;
+    float: left;
+}
+
+.t-dv2 p>a {
+    text-decoration: none;
+    color: blue;
+}
+
+.t-dv3 {
+    white-space: nowrap;
+    position: absolute;
+    top: 20px;
+    left: 70%;
+    font-size: 20px;
+    float: left;
+}
+
+.t-dv3 p>img {
+    height: 20px;
+    width: 20px;
+}
+
+.t-dv3 p>a {
+    text-decoration: none;
+    color: black;
+}
+
+.logo {
+    padding-left: 0px;
+    padding-top: 20px;
+    position: relative;
+}
+
+.img {
+    padding-top: 50px;
+}
+
+.fis {
+    margin-top: 20px;
+    margin-bottom: 10px;
+
+}
+
+.fis h2 {
+    font-size: 22px;
+    color: #666;
+    display: inline;
+    padding-left: 80px;
+
+}
+
+.fis img {
+    width: 25px;
+    height: 25px;
+}
+
+.fis span>a {
+    text-decoration: none;
+    color: blue;
+    position: relative;
+    left: 100px;
+}
+
+.activ {
+    border: 0;
+    margin-top: 30px;
+    height: 53px;
+    width: 353px;
+    color: gray;
+    text-indent: 30px;
+    background-image: url("image/image2.jpg");
+    background-repeat: no-repeat;
+    background-position: 5px 20px;
+    border: 1px solid #ccc;
+}
+
+.activs {
+    border: 0;
+    margin-bottom: 10px;
+    height: 53px;
+    width: 353px;
+    text-indent: 30px;
+    background-image: url("image/image3.jpg");
+    background-repeat: no-repeat;
+    background-position: 5px 20px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+
+.denglu {
+    width: 353px;
+    background-color: red;
+    height: 45px;
+    margin-top: 10px;
+}
+
+.ko {
+    background: #d9d9d9;
+    width: 353px;
+    height: 10px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+
+.b-bar-form {
+    width: 400px;
+    height: 400px;
+    border: 1px solid #ccc;
+    padding-left: 20px;
+    margin-top: 10px;
+    background-color: white;
+    float: left;
+    position: relative;
+}
+
+.b-bar-form .a1 {
+    position: absolute;
+    top: -15px;
+    left: 180px;
+}
+
+
+
+.b-bar-form div>form>span>a {
+    text-decoration: none;
+    color: #ccc;
+    padding-left: 216px;
+}
+
+.b-bar {
+    width: 1000px;
+    margin: 0px auto;
+}
+
+.b-bar-dv1 {
+    float: left;
+    margin-top: 70px;
+}
+
+.b-bar-dv2 {
+    float: left;
+    padding-left: 150px;
+}
+
+.b-bar-form-imgFomat a>img {
+    height: 35px;
+    width: 35px;
+}
+
+.b-bar-form-imgFomat p>h1 {
+    font-size: 15px；
+}
+
+footer p {
+    white-space: nowrap;
+    margin-top: 130px;
+    color: gray;
+    text-align: center;
+
+}
