@@ -1,0 +1,231 @@
+/* .main {
+    width: 100%;
+    background-color: #F1F1F1;
+} */
+
+.ma-zt {
+    width: 100%;
+    background-color: #F1F1F1;
+}
+
+.top-bt1 {
+    width: 1000px;
+    margin: 30px auto;
+    margin-top: 20px;
+}
+
+.tob-b1 {
+    background: url(image/logo_wy.png) no-repeat;
+    height: 37px;
+    width: 118px;
+    margin: 10px 0px;
+    float: left;
+    margin-right: 5px;
+
+}
+
+.tob-b2 {
+    background: url(image/dot_bg.jpg) repeat-y;
+    height: 37px;
+    width: 1px;
+    margin: 10px 0px;
+    float: left;
+}
+
+.tob-b3 {
+    float: left;
+    margin: 18px 40px;
+}
+
+.tob-b3 span {
+    color: #989898;
+    font-size: 15px;
+    text-align: center;
+}
+
+.tob-b4 {
+    margin: 20px 0px;
+    float: right;
+}
+
+.tob-b4 a {
+    color: #4B92CA;
+}
+
+.bt-cv {
+    width: 1000px;
+    height: 50px;
+    margin: 0px auto;
+}
+
+.bc-dc {
+    background: url(image/tit_bg2.jpg) repeat-x;
+    height: 46px;
+}
+
+.bc-cc {
+    background: url(image/tit_bg1.jpg) no-repeat;
+    height: 46px;
+    width: 43px;
+    float: left;
+}
+
+.bc-cc1 {
+    font-size: 15px;
+    margin: 11px 15px;
+    float: left;
+    color: #fff;
+}
+
+.bs-de1 {
+    float: left;
+}
+
+
+.bs-de3 {
+    float: right;
+}
+
+.bv-as1 {
+    padding: 0px 265px;
+}
+
+.bt-cv2 {
+    width: 1000px;
+    margin: 0px auto;
+    background-color: #fff;
+}
+
+.bs-sp1 {
+    color: red;
+}
+
+.bs-sp2 {
+    font-weight: bold;
+}
+
+.bs-de1 input {
+    margin-top: 2px;
+    width: 200px;
+    height: 25px;
+}
+
+.bs-de2 {
+    font-weight: bold;
+    margin: 10px;
+}
+
+.bs-de3 {
+    margin-top: 7px;
+    width: 80px;
+    height: 20px;
+}
+
+.bv-as2 {
+    margin: 0px 288px;
+}
+
+.ba-s1 {
+    color: red;
+}
+
+.ba-s2 {
+    font-weight: bold;
+}
+
+.ba-d1 input {
+    width: 200px;
+    height: 25px;
+}
+
+.bv-as3 {
+    margin: 0px 265px;
+}
+
+.ba-e1 {
+    color: red;
+}
+
+.ba-e2 {
+    font-weight: bold;
+}
+
+.ba-w1 input {
+    width: 200px;
+    height: 25px;
+}
+
+.bv-as4 {
+    margin: 0px 273px;
+}
+
+.ba-r2 {
+    font-weight: bold;
+}
+
+.ba-q1 input {
+    width: 200px;
+    height: 25px;
+}
+
+.bv-as5 {
+    margin: 0px 275px;
+}
+
+.ba-t1 {
+    color: red;
+}
+
+.ba-t2 {
+    font-weight: bold;
+}
+
+.ba-f1 input {
+    width: 200px;
+    height: 25px;
+}
+
+.ba-f1 {
+    float: left;
+}
+
+.ba-f2 {
+    float: left;
+    padding-left: 10px;
+}
+
+.b-tex1 {
+    margin: 5px 325px;
+    font-size: 10px;
+    color: #989898;
+}
+
+.xu-ba1 {
+    margin: 5px 325px;
+    color: #989898;
+    font-size: 10px;
+}
+
+.xu-ba1 a {
+    color: #4B92CA;
+}
+
+.xu-ba2 {
+    margin: 45px 325px;
+}
+
+.fo-ba1 {
+    width: 1000px;
+    height: 20px;
+    margin: 0px auto;
+}
+
+.fo-ba1 span {
+    padding-right: 10px;
+}
+
+.fot {
+    width: 100%;
+    height: 30px;
+    background-color: #989898;
+}
